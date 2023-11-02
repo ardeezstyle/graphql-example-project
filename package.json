@@ -1,0 +1,9 @@
+{
+  "name": "graphql-example-project",
+  "version": "1.0.0",
+  "description": "A Job Board is a web application that serves as a platform for connecting job seekers with employers and companies looking to hire new talent. Here's a more detailed description of what you can include in a Job Board project using Angular and GraphQL",
+  "main": "index.js",
+  "repository": "git@github.com:ardeezstyle/graphql-example-project.git",
+  "author": "Rupam Datta <ardeezstyle@gmail.com>",
+  "license": "MIT"
+}
