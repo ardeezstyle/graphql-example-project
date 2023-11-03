@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "git@github.com:ardeezstyle/graphql-example-project.git",
   "author": "Rupam Datta <ardeezstyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1"
+  }
 }

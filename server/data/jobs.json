@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Title",
+    "company": "XYZ",
+    "location": "",
+    "salary": 1000.0,
+    "description": "lorem ipsum",
+    "keywords": ["job"],
+    "jobType": "PERMANENT"
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "company": "XYZ",
+    "location": "",
+    "salary": 1000.0,
+    "description": "lorem ipsum",
+    "keywords": ["job"],
+    "jobType": "PART TIME"
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "company": "XYZ",
+    "location": "",
+    "salary": 1000.0,
+    "description": "lorem ipsum",
+    "keywords": ["job"],
+    "jobType": "CONTRACTUAL"
+  }
+]

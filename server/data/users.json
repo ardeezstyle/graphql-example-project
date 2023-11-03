@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "CANDIDATE",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "Joe Doe",
+    "role": "CANDIDATE",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": ""
+    }
+  }
+]
